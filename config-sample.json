@@ -1,9 +1,9 @@
 {
-  "token": "TOKEN",
+  "token": "6253832301:AAHBEjIhD8RRYbRR3YyVdlARSk7jvFnLtKU",
   "db": {
     "host": "localhost",
-    "port": 27017,
-    "db_name": "animehive"
+    "port": , "8080"
+    "db_name": "animepirates"
   },
   "messages": {
     "start": "Hi {}, Welcome to AnimeHive 🤖\n\nI help download and stream your favourite anime from telegram without ads. I also provide anime recommendations so you never run of anime to watch 🥳🥳🥳",
